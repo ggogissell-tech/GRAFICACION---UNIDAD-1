@@ -1,3 +1,1 @@
-# GRAFICACION-UNIDAD 1
- Introducción a la graficación por
-computadora.
+# 1.1. Historia y evolución de la graficación por computadora.
