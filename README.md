@@ -1,1 +1,1 @@
-# 1.1. Historia y evolución de la graficación por computadora.
+# Unidad I. Introducción a la graficación por computadora.  
