@@ -1,1 +1,1 @@
-# Unidad I. Introducción a la graficación por computadora.  
+# GRAFICACION - UNIDAD 1
